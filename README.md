@@ -10,5 +10,6 @@ This (live) repository includes sources for:
 - Power BI
 - Probability and Statistics
 - Risk Management in Trading
+- Systems Engineering
 - Tableau
 - Technical Analysis
