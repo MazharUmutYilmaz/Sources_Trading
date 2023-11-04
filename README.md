@@ -13,3 +13,4 @@ This (live) repository includes sources for:
 - Systems Engineering
 - Tableau
 - Technical Analysis
+- Scientific Works 
